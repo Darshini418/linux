@@ -1,0 +1,27 @@
+linux system:
+************
+
+1.linux is an open source operating system like other operating systems sich as microsoftwindow,apple Mac OS,iOS,etc.
+2.An operating system is a software that enables the communication btw comptuer hardware and softerware.
+3.It is around us since the mid-90's.it can be used from wristwatches to supercomputers.
+
+
+structure of linux operating system:
+************************************
+1.An operating system is a collection of softerware,each designed for a specific function.
+2.linux kernel is the core part of the operating system.It manages system resources.It has four responsibilities they are:
+  *device management:A kernel stores all the data related to all the devices in the device driver.
+  *Memory Management:Another function that kernel has to manage is the memory management.
+  *Process management:It deals with security and ownership information.
+  *Handling system calls:It means a programmer ac write a query or ask kernel to perform a task.
+ Ext3:
+ ****
+1.The third extended filesystem.It is the most commonly used filesystem on linux.
+2.It is basically an  extension of ext2 to which a journalling capability has been added.
+ Xfs4:
+1.it is a high performance 64 bit journalling file system created by silicon graphics,inc(SGI)in 1993.
+2.XFS ensures the consistency of data by employing metadata journaling and supporting write barries.
+ NTFS:
+ ****
+1.NTFS means New Technology File System.It is a process that the windows NT operating system uese for storing,organizing on a hard disk efficiently.
+2.It is a combination of performance,reliability,and compatibility not found in the FAT file system.  
